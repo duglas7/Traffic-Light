@@ -1,0 +1,51 @@
+
+.background{
+	padding: 40px;
+	zoom:67%;
+	width: auto; height: 1400px;
+}
+
+.box-out{
+    background-color: gray;
+    width:300px; height: 760px;
+	border:solid 1px;
+	border-radius: 10px;
+	margin: 15px auto;
+	padding: 20px 30px 20px 30px;
+}
+
+.box-inside{
+	background: black;
+	border-radius: 10px;
+	width:200px; height:670px;
+	border: solid 1px;
+	position:relative;
+	padding: 20px 30px 20px 30px;
+    margin: 20px auto auto 20px;
+	 
+}
+
+.circulo{
+	border-radius: 200px;
+	width:210px; 
+	height: 210px;
+	position:relative;
+	top: 0; left: 0;
+	margin-top: 10px;
+}
+
+.verde{
+    background: green;
+}
+
+.amarillo{
+    background: yellow;
+}
+
+.rojo{
+    background:red;
+}
+
+.encendido{
+  box-shadow: 0 0 70px #ffffff;
+}
